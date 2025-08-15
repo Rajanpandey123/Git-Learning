@@ -12,7 +12,4 @@ console.log(upi);
 //i am fixing sum bugbranch
 console.log("fixing branch");
 
-let a=20;
-let b=30;
-let sum=a+b;
-console.log(`SUM:${sum}`);
+console.log("welcome to india");
